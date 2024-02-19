@@ -1,0 +1,21 @@
+button{
+  padding: .3em .6em;
+  border-radius: 10px;
+  background-color: #1b1a1a;
+  color: #eee;
+  border: none;
+  box-shadow: 2px 2px 3px #1b1a1a;
+}
+
+button:hover {
+  background-color: #000000;
+  box-shadow: none;
+}
+
+body{
+  /* background-color: #080808ec; */
+}
+
+:root {
+  color-scheme: light dark;
+}

@@ -1,0 +1,2 @@
+-- propeidad lazy - espera a que se resuleva la peticion para entrar a la ruta eso es loq ue ace pord efecto,
+asi que si el pones true cambia y entra a la ruta simplemnte el proceso asincrono continua.
