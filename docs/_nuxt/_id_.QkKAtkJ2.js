@@ -1,1 +1,0 @@
-import{d as s,r as e,i as r,o as c,J as _,w as u,_ as p,b as m,m as i,l as d}from"./entry.TvcdEkYi.js";const j=s({__name:"[id]",setup(l){e([]);const t=r(),{id:o}=t.params,a=e(o);return(f,x)=>{const n=p;return c(),_(n,{name:"project"},{default:u(()=>[m("h1",null,"Project number "+i(d(a)),1)]),_:1})}}});export{j as default};

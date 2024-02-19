@@ -7,7 +7,8 @@ export default defineNuxtConfig({
     '@nuxtjs/tailwindcss'
   ],
   app: {
-    layoutTransition: { name: 'layout', mode: 'out-in' }
+    layoutTransition: { name: 'layout', mode: 'out-in' },
+    // baseUrl: '/ssg_app/'    
   },
   // routeRules: {
   //   '/products/**': { prerender: true },
